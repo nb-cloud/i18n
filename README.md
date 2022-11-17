@@ -1,2 +1,7 @@
 # i18n
-Visual Product i18n Tool
+
+# Start
+```
+npm install
+npm run build
+```
