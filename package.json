@@ -1,6 +1,6 @@
 {
   "name": "@vesoft-inc/i18n",
-  "version": "1.0.0-alpha.18",
+  "version": "1.0.0",
   "description": "Visual Product i18n Tool",
   "main": "lib/index.js",
   "unpkg": "dist/index.js",
