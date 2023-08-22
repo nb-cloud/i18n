@@ -1,6 +1,6 @@
 {
   "name": "@vesoft-inc/i18n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Visual Product i18n Tool",
   "main": "lib/index.js",
   "unpkg": "dist/index.js",
@@ -40,7 +40,7 @@
     "@rollup/plugin-replace": "^2.3.4",
     "@types/js-cookie": "^2.2.6",
     "@types/prettier": "^1.19.0",
-    "@types/react": "^16.9.55",
+    "@types/react": "^18.0.0",
     "core-js": "^3.4.7",
     "cross-env": "^6.0.3",
     "rimraf": "^3.0.0",
@@ -54,8 +54,8 @@
     "react-intl-universal": "^2.6.11"
   },
   "peerDependencies": {
-    "react": "^17.0.1",
-    "react-dom": "^16.8.3 || ^17.0.1"
+    "react": "^16.8.3 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.3 || ^17.0.0 || ^18.0.0"
   },
   "repository": {
     "type": "git",
